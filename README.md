@@ -27,4 +27,5 @@ Maximum Coin Age: 90 Days
 1st Year Interest: 100%
 
 2nd Year Interest: 50%
+
 3rd Year Interest: 10%
