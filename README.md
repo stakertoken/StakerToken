@@ -5,6 +5,7 @@ Proof-of-Stake smart contract token built on the Ethereum blockchain.
 # Specifications of Expand
 
 Name: Staker
+
 Symbol: STR
 Decimals: 18
 Standard: ERC20
